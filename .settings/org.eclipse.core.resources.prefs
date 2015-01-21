@@ -1,7 +1,7 @@
 eclipse.preferences.version=1
-encoding/1.py=cp936
 encoding/first.py=utf-8
 encoding/mainframe.py=utf-8
 encoding/multhread.py=utf-8
 encoding/proc.py=utf-8
 encoding/process.py=cp936
+encoding/test.py=utf-8
