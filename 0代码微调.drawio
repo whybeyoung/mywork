@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T13:45:33.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="22.1.17" etag="ua5jTruKdfgQc1UEnGeE" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T14:17:24.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gBFBFKcQFi_fTDro9I2w" version="22.1.17" type="github">
   <diagram name="第 1 页" id="XGprGWBlJw7wvIv0rpM6">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="221" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#ff9633;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="460" width="460" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-1" value="WebUI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="499" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-2" value="训练核心系统" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="209" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-3" value="统一Python SDK接入" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-4" value="Lora" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="221" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-5" value="Llama Factory" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="353" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-6" value="统一训练SDK" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="600" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-7" value="参数配置表单" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#ff9633;" vertex="1" parent="1">
+          <mxGeometry x="265.5" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-9" value="Datasets" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="499" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-10" value="微调训练监控" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#ff9633;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-11" value="Maas平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="393.5" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-12" value="QLora" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="221" y="740" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-14" value="PTuning" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#d400ff;" vertex="1" parent="1">
+          <mxGeometry x="325" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-15" value="量化手段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="640" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-16" value="GGUF" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#d400ff;" vertex="1" parent="1">
+          <mxGeometry x="325" y="740" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="449.5" y="640" width="221" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-25" value="SFT" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-26" value="PreTrain" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="740" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-28" value="方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="534.5" y="640" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-30" value="RLHF" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="571" y="690" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-31" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="810" width="221.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-32" value="模型训练底层SDK库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="810" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-33" value="Models" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="221" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-34" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="448.25" y="810" width="221.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-35" value="数据集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-36" value="Transformers" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="324" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-37" value="LLamaFactory" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="221" y="900" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-38" value="Deepspeed" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="324" y="900" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-39" value="数据转换" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-40" value="数据加载" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="560" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-41" value="数据增强" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="900" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-42" value="数据前处理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="560" y="900" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOQfQvAq2Y9YxxekeXNo-43" value="训练核心系统" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="460" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
